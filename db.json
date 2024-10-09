@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Apple",
+      "price": "20000",
+      "image": "https://i.pinimg.com/736x/49/be/cd/49becd1c31a778fd22715f46a1515a6d.jpg",
+      "quantity": "115",
+      "id": 2
+      
+    },
+    {
+      "name": "Mango",
+      "price": "10000",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwEnPDj6yvM8cXrlPuFSmxILE6Osn_CLkdng&s",
+      "quantity": "1444",
+      "id": 3
+    }
+  ]
+}
